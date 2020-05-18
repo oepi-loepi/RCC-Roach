@@ -1,0 +1,10 @@
+1.0.1
+- timer running as variable
+- timmer stooped when hidden
+- new transparentscreen
+
+
+
+1.0.0
+- First Release:
+
