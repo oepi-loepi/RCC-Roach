@@ -54,7 +54,7 @@ Item {
 
         Image {
 			id: spriteImage
-			source: "RoachSprites.png"
+			source: "https://raw.githubusercontent.com/oepi-loepi/RCC-Roach/master/components/RoachSprites.png"
 			y:0
 			x:-parent.width*sprite.frame
         }
